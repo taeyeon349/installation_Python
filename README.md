@@ -9,6 +9,7 @@
  ![VSCODE설치화면](image/vscode.jpg)
 
 
+
 ## 파이썬 가상 환경
 3. 가상환경을 생성
  ![가상환경](image/venv.jpg)
@@ -16,6 +17,7 @@
 
 4. 가상환경과 VSCode를 연결
  ![커넥트](image/connect.jpg)
+
 
 
 ## 프로그램 실행
