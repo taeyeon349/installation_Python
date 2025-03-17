@@ -1,4 +1,5 @@
 #installation_Python
+
 파이썬 개발 환경 구축
 1. anaconda 또는 miniconda를 이용해서 python interpreter를 설치했다.
  ![아나콘다설치화면](image/anaconda.jpg)
